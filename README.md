@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
+<img  src="https://t4.ftcdn.net/jpg/02/67/52/49/360_F_267524919_wXbVQHR189pLVU06eQ85GGLnJMq2eJFR.jpg" alt="coding" width="400" align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshahari1207&label=Profile%20views&color=0e75b6&style=flat" alt="harshahari1207" /> </p>
 
